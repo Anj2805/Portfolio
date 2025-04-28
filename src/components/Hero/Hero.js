@@ -85,7 +85,7 @@ function Hero() {
           <HeroRight>
             <ScrollAnimation animateIn="fadeIn">
               <Image
-                src="/girl-svgrepo-com.svg"
+                src="/main.png"
                 alt="girl-svgrepo"
               />
             </ScrollAnimation>
