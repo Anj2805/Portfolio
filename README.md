@@ -39,7 +39,7 @@ A modern, responsive portfolio website built with React.js to showcase my projec
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/Anj2805/portfolio.git
 ```
 
 2. Install dependencies
