@@ -95,7 +95,7 @@ The portfolio is deployed using GitHub Pages. To deploy:
 
 1. Update the homepage in `package.json`
 ```json
-"homepage": "https://yourusername.github.io/portfolio"
+"homepage": "https://Anj2805.github.io/portfolio"
 ```
 
 2. Deploy to GitHub Pages
